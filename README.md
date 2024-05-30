@@ -13,4 +13,4 @@
 
 - :cake: Find the best variation of desserts.
 
-- :busts_in_silhouette:	Connect with people from all around th world.
+- :busts_in_silhouette:	Connect with people from all around the world.

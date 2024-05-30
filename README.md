@@ -5,4 +5,12 @@
    <h1>The Recipe Paradise</h1> 
 </div>
 
+---
 
+### :book: Discover and learn:
+
+- :cook: Learn the best tips and tricks.
+
+- :cake: Find the best variation of desserts.
+
+- :busts_in_silhouette:	Connect with people from all around th world.
